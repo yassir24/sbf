@@ -1,0 +1,225 @@
+* {
+    margin: 0;
+}
+.container {
+display: flex;
+width: 1440px;
+padding: 80px;
+flex-direction: column;
+align-items: center;
+gap: 56px;
+}
+
+
+.gettoknow {
+    color: var(--tertiary-10-base, #141414);
+text-align: center;
+
+/* Heading/H3/Bold/100% */
+font-family: Inter;
+font-size: 39px;
+font-style: normal;
+font-weight: 700;
+line-height: 100%; /* 39px */
+}
+
+
+.sub {
+    color: var(--tertiary-6, #858585);
+text-align: center;
+padding-top: 20px;
+/* Heading/H6/Regular/140% */
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 140%; /* 28px */
+}
+
+
+.rowlayout {
+    display: flex;
+width: 1280px;
+padding-right: 0px;
+justify-content: center;
+align-items: center;
+/* gap: 88px; */
+flex-shrink: 0;
+
+border-radius: 40px;
+background: var(--tertiary-1, #FFF);
+
+/* Elevation/Extra-large */
+box-shadow: 0px 8px 24px 0px rgba(20, 20, 20, 0.16);
+}
+
+.width {
+    width: 890px;
+}
+
+.subtitle {
+    align-self: stretch;
+    color: var(--tertiary-3, #E0E0E0);
+
+/* Paragraph/Regular/140% */
+font-family: Inter;
+padding-top: 25px;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 140%; /* 22.4px */
+}
+
+.description {
+    color: var(--tertiary-1, #FFF);
+
+    /* Heading/H4/Bold/140% */
+    font-family: Inter;
+    font-size: 31px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 140%; /* 43.4px */
+}
+
+.left {
+    display: flex;
+padding: 40px;
+border-radius: 40px 0 0 40px;
+flex-direction: column;
+align-items: flex-start;
+width: 55%;
+flex: 1 0 0;
+align-self: stretch;
+background: var(--primary-7, #104210);
+}
+
+
+.right {
+    display: flex;
+    width: 45%;
+padding-right: 0px;
+justify-content: center;
+align-items: center;
+gap: 88px;
+flex-shrink: 0;
+
+border-radius: 40px;
+background: var(--tertiary-1, #FFF);
+
+/* Elevation/Extra-large */
+/* box-shadow: 0px 8px 24px 0px rgba(20, 20, 20, 0.16); */
+}
+
+.bannercontainer {
+    display: flex;
+padding: 80px;
+background: var(--tertiary-2, #F5F5F5);
+flex-direction: column;
+align-items: flex-start;
+gap: 8px;
+}
+
+
+.backgrounddiv {
+    background: url('../banner.png') center/cover; /* Replace with the path to your image */
+    /* width: 100%; */
+    height: 350px;
+    width: 100%;
+    /* padding: 40px; */
+    border-radius: 32px;
+    /* padding-top: 40px; */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+/* gap: 40px; */
+  }
+
+  .downloadapp {
+    width: 475px;
+  }
+   .title {
+    color: var(--tertiary-1, #FFF);
+
+    /* Heading/H1/Bold/100% */
+    font-family: Inter;
+    /* padding: 40px; */
+    font-size: 61px;
+    /* margin-top: 20px; */
+    padding-top: 40px;
+    padding-left: 40px;
+    /* margin-left : 25px; */
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%; /* 61px */
+  }
+
+
+
+
+.imageStyle{
+width: 431.034px;
+height: 500px;
+flex-shrink: 0;
+
+}
+
+.bgimg{
+    display: flex;
+width: 100%;
+height: 1129px;
+padding: 80px 0px 79.55px 0px;
+justify-content: flex-end;
+align-items: center;
+}
+
+.last {
+    color: var(--secondary-4-base, #FCCE17);
+
+/* Heading/H6/Semibold/100% */
+padding-top: 12px;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 100%; /* 20px */
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    padding-top: 40px;
+    padding-left: 40px;
+    gap: 24px;
+}
+.btns {
+    display: flex;
+    padding: 16px 32px;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    border-radius: 16px;
+    border: 3px solid var(--tertiary-1, #FFF);
+    background: var(--secondary-4-base, #FCCE17);
+    box-shadow: 8px 8px 0px 0px #000;
+    cursor: pointer; /* Add cursor style for interactivity */
+    text-align: center; /* Center text within the button */
+    text-decoration: none; /* Remove default underline for anchor tags */
+    color: inherit; /* Inherit text color from parent */
+}
+
+.btntxt {
+    color: var(--tertiary-10-base, #141414);
+
+/* Heading/H6/Bold/100% */
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 100%; /* 20px */
+}
+
+.apple {
+    width: 32px;
+height: 32px;
+}

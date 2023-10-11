@@ -1,0 +1,237 @@
+.container {
+display: flex;
+width: 1440px;
+padding: 12px 80px;
+justify-content: space-evenly;
+align-items: start;
+gap: 24px;
+}
+
+
+.left {
+display: inline-flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 32px;
+width: 628px;
+margin-left: 85px;
+}
+
+.llayout{
+    /* padding-top: 280; */
+    width: 557px;
+    
+}
+.llayout > p {
+    padding-top: 16px;
+    color: var(--tertiary-6, #858585);
+
+    /* Heading/H5/Medium/140% */
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 140%; /* 35px */
+}
+.llayout > h1 {
+    margin-top: 150px;
+    color: var(--tertiary-10-base, #141414);
+
+    /* Heading/H1/Bold/120% */
+    font-family: Inter;
+    font-size: 61px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%; /* 73.2px */
+}
+
+
+.lbutton {
+    display: inline-flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 32px;
+}
+.lbutton > button {
+    display: flex;
+    padding: 20px 24px;
+    align-items: center;
+    gap: 8px;
+    border-radius: 16px;
+    border: 3px solid var(--tertiary-1, #FFF);
+    background: var(--primary-6-base, #196719);
+    box-shadow: 8px 8px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.lbutton > button > p {
+    color: var(--tertiary-1, #FFF);
+
+    /* Heading/H6/Bold/100% */
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%; /* 20px */
+}
+
+.bgbanner {
+    width: 590px;
+height: 808px;
+}
+
+.tc {
+    display: flex;
+    justify-content: center;
+width: 70%;
+padding: 80px;
+margin-left: auto;
+/* height: 813px; */
+margin-top: -200px;
+margin-right: auto;
+flex-direction: column;
+align-items: flex-start;
+gap: 40px;
+border-radius: 40px;
+background: rgba(255, 255, 255, 0.20);
+box-shadow: 0px 0px 48px 0px #FFF inset, -4px 4px 36px 0px rgba(0, 0, 0, 0.15);
+backdrop-filter: blur(5px);
+}
+.tc > h1 {
+    align-self: stretch;
+    color: var(--tertiary-10-base, #141414);
+text-align: center;
+
+/* Heading/H3/Bold/140% */
+font-family: Inter;
+font-size: 39px;
+font-style: normal;
+font-weight: 700;
+line-height: 140%; /* 54.6px */
+}
+.tc > p {
+    align-self: stretch;
+    color: var(--tertiary-8, #474747);
+
+/* Heading/H6/Regular/140% */
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 140%; /* 28px */
+}
+
+.tl {
+    display: flex;
+flex-direction: column;
+align-items: center;
+gap: 16px;
+align-self: stretch;
+}
+.tl > p{
+    color: var(--secondary-4-base, #FCCE17);
+
+/* Heading/H5/Medium/100% */
+font-family: Inter;
+font-size: 25px;
+font-style: normal;
+font-weight: 500;
+line-height: 100%; /* 25px */
+}
+
+.itembutton {
+    display: flex;
+padding: 8px;
+align-items: flex-start;
+gap: 8px;
+border-radius: 16px;
+background: var(--primary-tint-8, #2B892B);
+}
+
+.inner {
+    display: flex;
+width: 761px;
+align-items: center;
+justify-content: center;
+gap: 24px;
+}
+.inneritem {
+    display: flex;
+    padding: 16px 24px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 20px;
+    flex: 1 0 0;
+    border-radius: 16px;
+background: var(--primary-tint-9, #196719);
+
+/* Elevation/Large */
+box-shadow: 0px 4px 16px 0px rgba(20, 20, 20, 0.08);
+}
+.inneritem > p {
+    color: var(--tertiary-1, #FFF);
+
+    /* Heading/H6/Semibold/100% */
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 100%; /* 20px */
+    align-self: stretch;
+}
+.inneritem > span {
+    color: var(--tertiary-2, #F5F5F5);
+
+    /* Paragraph/Regular/120% */
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%; /* 19.2px */
+    align-self: stretch;
+}
+.inneritem > h4 {
+    color: var(--secondary-4-base, #FCCE17);
+
+    /* Paragraph/Medium/100% */
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 100%; /* 16px */
+}
+
+
+
+.lbanner {
+    height: 400px;
+    width: 262px;
+}
+.tl > h1{
+    color: var(--tertiary-1, #FFF);
+    text-align: center;
+    
+    /* Heading/H2/Bold/100% */
+    font-family: Inter;
+    font-size: 49px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%; /* 49px */
+    align-self: stretch;
+}
+
+.ml {
+    display: flex;
+flex-direction: column;
+align-items: center;
+gap: 40px;
+}
+
+.gb {
+    display: flex;
+/* width: 1440px; */
+margin-top: 80px;
+padding: 80px 0px;
+justify-content: space-between;
+align-items: center;
+background: var(--primary-7, #104210);
+}

@@ -1,0 +1,1862 @@
+.registerNow {
+    position: relative;
+    line-height: 100%;
+    font-weight: 500;
+  }
+  .redeemRewardWrapper,
+  .registerNowGetUpTo100UParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  .redeemRewardWrapper {
+    border-radius: 8px;
+    background-color: #fcce17;
+    padding: 12px;
+    font-size: 13px;
+    color: #141414;
+  }
+  .registerNowGetUpTo100UParent {
+    position: absolute;
+    top: 72px;
+    right: 0;
+    background-color: #fff2be;
+    width: 1440px;
+    padding: 12px 80px;
+    box-sizing: border-box;
+    gap: 24px;
+    color: #474747;
+  }
+  .realTimeLivescoreAnd {
+    position: relative;
+    letter-spacing: -0.02em;
+    line-height: 120%;
+    display: inline-block;
+    width: 569px;
+  }
+  .experienceRealTimeSports {
+    align-self: stretch;
+    position: relative;
+    font-size: 20px;
+    line-height: 140%;
+    font-weight: 500;
+    color: #858585;
+  }
+  .text {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 20px;
+  }
+  .appleOriginal {
+    position: relative;
+    width: 32px;
+    height: 32px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .appStore {
+    position: relative;
+    line-height: 100%;
+  }
+  .button {
+    border-radius: 16px;
+    background-color: #196719;
+    box-shadow: 8px 8px 4px rgba(0, 0, 0, 0.25);
+    border: 3px solid #fff;
+    flex-direction: row;
+    padding: 16px 24px;
+    align-items: center;
+    gap: 8px;
+  }
+  .button,
+  .cta,
+  .textParent {
+    display: flex;
+    justify-content: flex-start;
+  }
+  .cta {
+    flex-direction: row;
+    align-items: center;
+    gap: 24px;
+    font-size: 20px;
+    color: #fff;
+  }
+  .textParent {
+    width: 628px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+  }
+  .fieldRug,
+  .fieldRug1 {
+    align-self: stretch;
+    position: relative;
+    background-color: #e0e0e0;
+    height: 60px;
+  }
+  .fieldRug1 {
+    background-color: #fff;
+  }
+  .fieldTiles,
+  .footballPitch {
+    position: absolute;
+    width: 100%;
+    right: 0;
+    left: 0;
+  }
+  .fieldTiles {
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .footballPitch {
+    bottom: 0;
+    border-radius: 40px;
+    background-color: #fff;
+    border: 8px solid #141414;
+    box-sizing: border-box;
+    height: 366px;
+    overflow: hidden;
+  }
+  .legalServiceAppLaunchScr,
+  .legalServiceAppLaunchScr1 {
+    position: absolute;
+    border-radius: 21.65px;
+    filter: blur(43.29px);
+    border: 0.5px solid #000;
+    box-sizing: border-box;
+  }
+  .legalServiceAppLaunchScr {
+    bottom: -44px;
+    left: 21px;
+    background-color: #090a0a;
+    width: 503px;
+    height: 354px;
+    display: none;
+    opacity: 0.4;
+  }
+  .legalServiceAppLaunchScr1 {
+    top: 24px;
+    left: 9px;
+    background-color: #000;
+    width: 215px;
+    height: 447px;
+    opacity: 0.3;
+  }
+  .legalServiceAppLaunchScr2 {
+    position: absolute;
+    bottom: 5.41px;
+    left: -5.41px;
+    border-radius: 25.98px;
+    width: 228.82px;
+    height: 473px;
+    object-fit: cover;
+  }
+  .phone {
+    position: absolute;
+    top: 14px;
+    left: 38px;
+    width: 224px;
+    height: 473px;
+  }
+  .legalServiceAppLaunchScr3 {
+    position: absolute;
+    top: 59px;
+    left: 0;
+    border-radius: 21.65px;
+    background-color: #000;
+    filter: blur(43.29px);
+    border: 0.5px solid #000;
+    box-sizing: border-box;
+    width: 215px;
+    height: 412px;
+    opacity: 0.4;
+  }
+  .phone1 {
+    position: absolute;
+    top: 14px;
+    left: 286px;
+    width: 218px;
+    height: 473px;
+  }
+  .heroImageChild {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0),
+      rgba(0, 0, 0, 0.6)
+    );
+    border-bottom: 8px solid #141414;
+    box-sizing: border-box;
+    width: 543px;
+    height: 101px;
+  }
+  .heroImage {
+    position: relative;
+    border-radius: 40px;
+    width: 543px;
+    height: 439px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .frameParent {
+    position: absolute;
+    top: 133px;
+    right: 0;
+    background-color: #fff;
+    display: flex;
+    flex-direction: row;
+    padding: 104px 80px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 109px;
+    font-size: 61px;
+  }
+  .exploreEndlessPossibilities,
+  .feelTheEnergy {
+    align-self: stretch;
+    position: relative;
+    line-height: 100%;
+  }
+  .feelTheEnergy {
+    font-size: 20px;
+    color: #858585;
+  }
+  .exploreEndlessPossibilitiesParent {
+    width: 846px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+  }
+  .frameChild {
+    position: absolute;
+    margin: 0 !important;
+    top: 300.66px;
+    left: 0;
+    width: 215.19px;
+    height: 200px;
+    opacity: 0.2;
+    z-index: 0;
+  }
+  .frameInner,
+  .frameItem {
+    flex: 1;
+    position: relative;
+    border-radius: 4px;
+    background-color: #fcce17;
+    height: 6px;
+  }
+  .frameInner {
+    background-color: #196719;
+  }
+  .rectangleParent {
+    align-self: stretch;
+    border-radius: 2px;
+    background-color: #104210;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px;
+  }
+  .title {
+    position: relative;
+    line-height: 100%;
+    font-weight: 500;
+    display: inline-block;
+    width: 299px;
+  }
+  .description {
+    align-self: stretch;
+    position: relative;
+    font-size: 31px;
+    line-height: 140%;
+    color: #fff;
+  }
+  .titleParent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 12px;
+  }
+  .label {
+    position: relative;
+    line-height: 100%;
+    font-weight: 600;
+  }
+  .controlbuttonprimary {
+    align-self: stretch;
+    border-radius: 16px;
+    background-color: #fcce17;
+    box-shadow: 0 4px 16px rgba(20, 20, 20, 0.08);
+    display: flex;
+    flex-direction: row;
+    padding: 16px 24px;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    color: #141414;
+  }
+  .frameDiv {
+    justify-content: center;
+    gap: 40px;
+  }
+  .frameContainer,
+  .frameDiv,
+  .groupParent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .frameContainer {
+    padding: 24px;
+    justify-content: center;
+    gap: 80px;
+    z-index: 1;
+  }
+  .groupParent {
+    flex: 1;
+    background-color: #104210;
+    padding: 40px;
+    justify-content: flex-start;
+    position: relative;
+  }
+  .bgElementIcon {
+    position: absolute;
+    top: 17.74px;
+    left: 0;
+    width: 431.03px;
+    height: 477.51px;
+  }
+  .legalServiceAppLaunchScr5 {
+    position: absolute;
+    top: 61.98px;
+    left: calc(50% - 128px);
+    border-radius: 40px;
+    background-color: #090a0a;
+    filter: blur(49.76px);
+    width: 251px;
+    height: 513px;
+    opacity: 0.3;
+  }
+  .legalServiceAppLaunchScr6 {
+    position: absolute;
+    top: -6.22px;
+    left: -1.22px;
+    border-radius: 29.86px;
+    width: 263.44px;
+    height: 544px;
+    object-fit: cover;
+  }
+  .phone2 {
+    position: absolute;
+    top: 85px;
+    left: calc(50% - 128.48px);
+    width: 256px;
+    height: 574.98px;
+  }
+  .frameChild1 {
+    position: absolute;
+    bottom: -32px;
+    left: 93.03px;
+    background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0),
+      rgba(0, 0, 0, 0.6)
+    );
+    border-bottom: 8px solid #141414;
+    box-sizing: border-box;
+    width: 240px;
+    height: 91px;
+  }
+  .rectangleIcon {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 10.48px;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .elipsisVIcon,
+  .rectangleWrapper {
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .rectangleWrapper {
+    border-radius: 13.1px;
+    border: 0.3px solid #e0e0e0;
+    box-sizing: border-box;
+    width: 10.48px;
+    height: 10.48px;
+  }
+  .elipsisVIcon {
+    width: 6.55px;
+    height: 6.55px;
+  }
+  .jakeParent,
+  .sParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .sParent {
+    justify-content: flex-start;
+    gap: 5.24px;
+    font-size: 4.26px;
+    color: #858585;
+  }
+  .jakeParent {
+    align-self: stretch;
+    justify-content: space-between;
+  }
+  .thisMatchWill {
+    align-self: stretch;
+    position: relative;
+    font-size: 6.66px;
+    line-height: 100%;
+    color: #141414;
+  }
+  .frameChild2 {
+    position: absolute;
+    height: 100%;
+    width: calc(100% - 0.76px);
+    top: 0;
+    right: 0.76px;
+    bottom: 0;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .rectangleContainer {
+    align-self: stretch;
+    position: relative;
+    border-radius: 2.62px;
+    background-color: #858585;
+    border: 0.3px solid #e0e0e0;
+    box-sizing: border-box;
+    height: 41.92px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .iconsChatbubbleEllipsesOu,
+  .likeIcon {
+    position: relative;
+    width: 7.86px;
+    height: 7.86px;
+  }
+  .iconsChatbubbleEllipsesOu {
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .likeParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 5.24px;
+  }
+  .userImageIcon,
+  .userImageIcon1,
+  .userImageIcon2 {
+    position: relative;
+    border-radius: 10.48px;
+    width: 11.27px;
+    height: 11.27px;
+    overflow: hidden;
+    flex-shrink: 0;
+    z-index: 2;
+  }
+  .userImageIcon1,
+  .userImageIcon2 {
+    z-index: 1;
+    margin-left: -5.24px;
+  }
+  .userImageIcon2 {
+    z-index: 0;
+  }
+  .teamGroup {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .vectorIcon {
+    position: relative;
+    width: 0.66px;
+    height: 0.66px;
+  }
+  .repliesParent,
+  .teamDetails {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 1.31px;
+  }
+  .teamDetails {
+    gap: 2.62px;
+  }
+  .frameParent2,
+  .frameParent3 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+  }
+  .frameParent3 {
+    align-self: stretch;
+    gap: 2.62px;
+    font-size: 6.01px;
+    color: #858585;
+  }
+  .frameParent2 {
+    flex: 1;
+    gap: 3.49px;
+  }
+  .commentCard,
+  .frameParent1 {
+    display: flex;
+    justify-content: flex-start;
+  }
+  .frameParent1 {
+    align-self: stretch;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 2.62px;
+  }
+  .commentCard {
+    position: absolute;
+    top: 370.25px;
+    left: calc(50% - 141.97px);
+    border-radius: 10.48px;
+    background-color: #fff;
+    box-shadow: 5.240174293518066px 5.240174293518066px 0.87px rgba(0, 0, 0, 0.8);
+    border: 1.3px solid #141414;
+    box-sizing: border-box;
+    width: 282.97px;
+    flex-direction: column;
+    padding: 6.986899375915527px;
+    align-items: flex-end;
+  }
+  .bgElementParent,
+  .item {
+    overflow: hidden;
+    flex-shrink: 0;
+    box-sizing: border-box;
+  }
+  .bgElementParent {
+    position: relative;
+    border-bottom: 8px solid #fff;
+    width: 431.03px;
+    height: 500px;
+    font-size: 6.33px;
+    color: #196719;
+  }
+  .item {
+    border-radius: 40px;
+    background-color: #fff;
+    box-shadow: 0 8px 24px rgba(20, 20, 20, 0.16);
+    width: 1280px;
+    display: flex;
+    flex-direction: row;
+    padding: 0 80px 0 0;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 88px;
+  }
+  .groupIcon {
+    position: absolute;
+    margin: 0 !important;
+    top: 300.66px;
+    left: 0;
+    width: 215.19px;
+    height: 205.34px;
+    opacity: 0.2;
+    z-index: 0;
+  }
+  .bgElementIcon1 {
+    position: absolute;
+    top: 54.02px;
+    left: 2.3px;
+    width: 428.74px;
+    height: 428.74px;
+  }
+  .legalServiceAppLaunchScr7 {
+    position: absolute;
+    top: 62px;
+    left: calc(50% - 128px);
+    border-radius: 40px;
+    background-color: #090a0a;
+    filter: blur(49.76px);
+    width: 251px;
+    height: 513px;
+    opacity: 0.3;
+  }
+  .legalServiceAppLaunchScr8 {
+    position: absolute;
+    top: 0;
+    left: 5px;
+    border-radius: 29.86px;
+    width: 251px;
+    height: 544px;
+    object-fit: cover;
+  }
+  .phone3 {
+    position: absolute;
+    top: 113px;
+    left: calc(50% - 128.48px);
+    width: 256px;
+    height: 575px;
+  }
+  .userProfilePics {
+    position: relative;
+    border-radius: 30.03px;
+    width: 15.01px;
+    height: 15.01px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .profile {
+    border-radius: 7.51px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 3.75px;
+  }
+  .verifyIcon {
+    position: relative;
+    width: 7.51px;
+    height: 7.51px;
+  }
+  .verifyWrapper {
+    border-radius: 7.51px;
+    background-color: #0b6a33;
+    padding: 1.876612663269043px;
+    justify-content: center;
+  }
+  .heading,
+  .userAvatar,
+  .verifyWrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .userAvatar {
+    border-radius: 15.01px;
+    background-color: #54f297;
+    box-shadow: 0 2.2988505363464355px 9.2px rgba(20, 20, 20, 0.08);
+    padding: 0.9383063316345215px 3.753225326538086px 0.9383063316345215px
+      0.9383063316345215px;
+    justify-content: flex-start;
+    gap: 1.88px;
+    color: #0b6a33;
+  }
+  .heading {
+    align-self: stretch;
+    padding: 0 7.506450653076172px;
+    justify-content: space-between;
+  }
+  .dividerIcon {
+    align-self: stretch;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    height: 0;
+    flex-shrink: 0;
+  }
+  .teams {
+    flex-direction: row;
+    align-items: center;
+    gap: 1.88px;
+  }
+  .game,
+  .teams,
+  .teamsParent {
+    display: flex;
+    justify-content: flex-start;
+  }
+  .teamsParent {
+    flex-direction: row;
+    align-items: center;
+    gap: 3.75px;
+  }
+  .game {
+    align-self: stretch;
+    flex-direction: column;
+    padding: 0 7.506450653076172px;
+    align-items: flex-start;
+    opacity: 0.8;
+  }
+  .placedBetCount {
+    position: relative;
+    font-size: 6.1px;
+    line-height: 100%;
+    color: #fff;
+  }
+  .buttonsecondarysmall,
+  .detail {
+    box-shadow: 0 2.2988505363464355px 9.2px rgba(20, 20, 20, 0.08);
+    display: flex;
+  }
+  .detail {
+    border-radius: 3.75px;
+    background-color: #2b892b;
+    flex-direction: row;
+    padding: 3.753225326538086px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0.94px;
+  }
+  .buttonsecondarysmall {
+    border-radius: 5.63px;
+    background-color: #fcce17;
+    flex-direction: column;
+    padding: 5.629837512969971px 7.506450653076172px;
+    align-items: flex-start;
+    justify-content: center;
+    font-size: 13px;
+    color: #141414;
+  }
+  .cta1 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    padding: 0 7.506450653076172px;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 4.69px;
+    color: #f5f5f5;
+  }
+  .betCard,
+  .tab {
+    box-sizing: border-box;
+  }
+  .betCard {
+    position: absolute;
+    top: 333.33px;
+    left: 27.59px;
+    border-radius: 7.51px;
+    background-color: #196719;
+    box-shadow: -3.753225326538086px 3.753225326538086px 0.94px
+      rgba(20, 20, 20, 0.8);
+    border: 1.3px solid #fcce17;
+    width: 160.92px;
+    display: flex;
+    flex-direction: column;
+    padding: 7.506450653076172px 0;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 3.75px;
+  }
+  .tab {
+    width: 75.49px;
+    padding: 7.042784214019775px 5.282088279724121px;
+  }
+  .tab,
+  .tab1,
+  .tabs {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  .tab1 {
+    border-bottom: 0.9px solid #141414;
+    box-sizing: border-box;
+    width: 75.49px;
+    padding: 7.042784214019775px 5.282088279724121px;
+    color: #141414;
+  }
+  .tabs {
+    align-self: stretch;
+    background-color: #fcce17;
+    padding: 0 7.042784214019775px;
+  }
+  .label12,
+  .label13 {
+    position: relative;
+    line-height: 100%;
+  }
+  .label12 {
+    font-size: 7.04px;
+  }
+  .label13 {
+    font-weight: 500;
+    color: #141414;
+  }
+  .detail1,
+  .teams4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+  .teams4 {
+    align-items: flex-start;
+    gap: 1.76px;
+  }
+  .detail1 {
+    align-self: stretch;
+    align-items: center;
+    color: #292929;
+  }
+  .label17 {
+    position: relative;
+    line-height: 100%;
+    color: #474747;
+  }
+  .item2 {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 3.52px;
+  }
+  .trashIcon {
+    position: relative;
+    width: 10.56px;
+    height: 10.56px;
+  }
+  .trashWrapper {
+    border-radius: 3.52px;
+    background-color: #e0e0e0;
+    display: flex;
+    flex-direction: row;
+    padding: 1.7606960535049438px;
+    align-items: center;
+    justify-content: center;
+  }
+  .game1,
+  .item3 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 10.56px;
+    font-size: 7.04px;
+    color: #141414;
+  }
+  .game1 {
+    background-color: #fff;
+    width: 161.64px;
+    flex-direction: row;
+    padding: 3.5213921070098877px 7.042784214019775px;
+    box-sizing: border-box;
+    font-size: 5.72px;
+    color: #000;
+  }
+  .bgElementGroup,
+  .item1,
+  .tabsParent {
+    overflow: hidden;
+    box-sizing: border-box;
+  }
+  .tabsParent {
+    position: absolute;
+    top: 224.32px;
+    left: 235.63px;
+    border-radius: 10.56px;
+    box-shadow: 3.5213921070098877px 3.5213921070098877px 0.88px
+      rgba(0, 0, 0, 0.7);
+    border: 1.3px solid #141414;
+    width: 161.64px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 16px;
+    color: #474747;
+  }
+  .bgElementGroup,
+  .item1 {
+    flex-shrink: 0;
+  }
+  .bgElementGroup {
+    position: relative;
+    border-bottom: 8px solid #fff;
+    width: 431.03px;
+    height: 500px;
+    font-size: 6.1px;
+    color: #fff;
+  }
+  .item1 {
+    border-radius: 40px;
+    background-color: #fff;
+    box-shadow: 0 8px 24px rgba(20, 20, 20, 0.16);
+    width: 1280px;
+    display: flex;
+    flex-direction: row;
+    padding: 0 80px 0 0;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 88px;
+  }
+  .frameChild7 {
+    position: absolute;
+    margin: 0 !important;
+    top: 306px;
+    left: 0;
+    width: 215.19px;
+    height: 200px;
+    opacity: 0.2;
+    z-index: 0;
+  }
+  .title2 {
+    align-self: stretch;
+    position: relative;
+    line-height: 100%;
+    font-weight: 500;
+  }
+  .groupChild {
+    position: absolute;
+    top: 8.22px;
+    left: 7.31px;
+    border-radius: 14.62px;
+    background-color: #fcce17;
+    border: 1.4px solid #141414;
+    box-sizing: border-box;
+    width: 157.12px;
+    height: 72.16px;
+  }
+  .bgElementIcon3 {
+    position: absolute;
+    top: 20.55px;
+    left: 82.67px;
+    width: 83.13px;
+    height: 83.13px;
+  }
+  .bankCardChild,
+  .bankCardItem {
+    position: absolute;
+    top: 4.83px;
+    left: -115.28px;
+    width: 237.98px;
+    height: 229.41px;
+  }
+  .bankCardItem {
+    top: 15.99px;
+    left: 58.22px;
+    width: 105px;
+    height: 89.19px;
+  }
+  .group1215Icon {
+    position: relative;
+    width: 21.77px;
+    height: 14.62px;
+  }
+  .debitCardParent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 7.31px;
+  }
+  .icon {
+    position: relative;
+    width: 14.62px;
+    height: 14.62px;
+  }
+  .frameParent9 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+  }
+  .div {
+    position: relative;
+    font-size: 7.31px;
+    line-height: 100%;
+    font-weight: 500;
+  }
+  .frameParent8 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 7.31px;
+  }
+  .valid {
+    margin: 0;
+  }
+  .validThruWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .frameParent10,
+  .ukpeJacobParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .frameParent10 {
+    justify-content: flex-start;
+    gap: 3.65px;
+    font-size: 5.94px;
+  }
+  .ukpeJacobParent {
+    align-self: stretch;
+    justify-content: space-between;
+    font-size: 7.31px;
+  }
+  .details {
+    position: absolute;
+    top: 6.85px;
+    left: 7.31px;
+    width: 141.59px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 7.31px;
+  }
+  .bankCard {
+    position: absolute;
+    top: -0.69px;
+    left: -0.69px;
+    border-radius: 10.96px;
+    background-color: #104210;
+    border: 1.4px solid #141414;
+    box-sizing: border-box;
+    width: 157.57px;
+    height: 74.45px;
+    overflow: hidden;
+  }
+  .frameChild12,
+  .groupDiv {
+    position: absolute;
+    top: 381.62px;
+    left: 3.27px;
+    width: 164.42px;
+    height: 80.38px;
+  }
+  .frameChild12 {
+    top: 228.38px;
+    left: 59.94px;
+    width: 359.22px;
+    height: 101.74px;
+    object-fit: cover;
+  }
+  .contentChild {
+    position: relative;
+    width: 34.69px;
+    height: 31.38px;
+  }
+  .description3 {
+    align-self: stretch;
+    position: relative;
+    font-size: 3.14px;
+    line-height: 120%;
+    color: #474747;
+    text-align: center;
+  }
+  .content,
+  .message {
+    width: 64.14px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 3.14px;
+  }
+  .content {
+    position: absolute;
+    top: 98.95px;
+    left: 271.05px;
+    border-radius: 6.28px;
+    background-color: #fff;
+    box-shadow: 3.1384060382843018px 3.1384060382843018px 0.78px
+      rgba(0, 0, 0, 0.8);
+    border: 1.2px solid #141414;
+    box-sizing: border-box;
+    width: 91.54px;
+    padding: 6.2768120765686035px 0;
+    font-size: 6.08px;
+    color: #141414;
+  }
+  .bgElementContainer {
+    position: relative;
+    border-bottom: 8px solid #fff;
+    box-sizing: border-box;
+    width: 431.03px;
+    height: 500px;
+    overflow: hidden;
+    flex-shrink: 0;
+    font-size: 5.94px;
+    color: #fff;
+  }
+  .frameGroup,
+  .list {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .list {
+    width: 1280px;
+    overflow-x: auto;
+    flex-direction: row;
+    gap: 80px;
+    text-align: left;
+    font-size: 20px;
+    color: #e0e0e0;
+  }
+  .frameGroup {
+    position: absolute;
+    top: 780px;
+    left: 0;
+    background-color: #f5f5f5;
+    width: 1440px;
+    overflow: hidden;
+    flex-direction: column;
+    padding: 80px;
+    box-sizing: border-box;
+    gap: 56px;
+    text-align: center;
+    font-size: 39px;
+  }
+  .startYourFirst {
+    align-self: stretch;
+    position: relative;
+    font-size: 16px;
+    line-height: 100%;
+    color: #666;
+  }
+  .setupYourSportbooAccountParent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 16px;
+    font-size: 39px;
+  }
+  .signUpcuateIcon {
+    position: relative;
+    width: 87.08px;
+    height: 80px;
+  }
+  .description4,
+  .title4 {
+    align-self: stretch;
+    position: relative;
+  }
+  .description4 {
+    line-height: 100%;
+    font-weight: 600;
+  }
+  .title4 {
+    font-size: 16px;
+    line-height: 140%;
+    color: #858585;
+  }
+  .descriptionParent {
+    align-self: stretch;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 12px;
+  }
+  .signUpcuateParent {
+    align-self: stretch;
+    border-radius: 16px;
+    background-color: #f5f5f5;
+    display: flex;
+    flex-direction: row;
+    padding: 16px 24px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 24px;
+  }
+  .startledcuateIcon,
+  .walletbroIcon {
+    position: relative;
+    width: 76.7px;
+    height: 80px;
+  }
+  .startledcuateIcon {
+    width: 79.95px;
+  }
+  .descriptionContainer {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 12px;
+  }
+  .controlbuttonprimary3 {
+    border-radius: 8px;
+    background-color: #196719;
+    box-shadow: 0 4px 16px rgba(20, 20, 20, 0.08);
+    display: flex;
+    flex-direction: row;
+    padding: 16px 80px;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    color: #fff;
+  }
+  .frameParent11 {
+    align-self: stretch;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 24px;
+  }
+  .itemChild {
+    position: relative;
+    width: 431px;
+    height: 594px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .item5 {
+    width: 1280px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    padding: 0 40px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 80px;
+  }
+  .itemWrapper,
+  .needHelpParent {
+    display: flex;
+    flex-direction: column;
+  }
+  .itemWrapper {
+    position: absolute;
+    top: 1581px;
+    left: 0;
+    background-color: #fff;
+    width: 1440px;
+    overflow: hidden;
+    padding: 80px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 25px;
+  }
+  .needHelpParent {
+    align-self: stretch;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 16px;
+  }
+  .service247panaIcon {
+    position: relative;
+    width: 80px;
+    height: 81.54px;
+  }
+  .description7,
+  .title7 {
+    align-self: stretch;
+    position: relative;
+  }
+  .description7 {
+    font-size: 20px;
+    line-height: 100%;
+    font-weight: 600;
+  }
+  .title7 {
+    line-height: 120%;
+    color: #858585;
+  }
+  .controlbuttonprimary4 {
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    padding: 8px 0;
+    align-items: center;
+    justify-content: flex-start;
+    color: #196719;
+  }
+  .descriptionParent1 {
+    align-self: stretch;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 8px;
+  }
+  .service247panaParent {
+    flex: 1;
+    border-radius: 16px;
+    background-color: #fff;
+    box-shadow: 0 4px 16px rgba(20, 20, 20, 0.08);
+    display: flex;
+    flex-direction: row;
+    padding: 16px 24px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
+  }
+  .faqscuateIcon,
+  .frameChild13 {
+    position: relative;
+    width: 80px;
+    height: 59.46px;
+  }
+  .faqscuateIcon {
+    height: 52.12px;
+  }
+  .frameParent13 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 24px;
+    font-size: 16px;
+  }
+  .frameParent12 {
+    position: absolute;
+    top: 2335px;
+    left: 0;
+    background-color: #f5f5f5;
+    width: 1440px;
+    display: flex;
+    flex-direction: column;
+    padding: 80px;
+    box-sizing: border-box;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 24px;
+    font-size: 39px;
+  }
+  .logoSingleLineLockupWhite {
+    position: relative;
+    width: 144.64px;
+    height: 41.61px;
+  }
+  .iconsLogoLinkedinWrapper {
+    border-radius: 16px;
+    background-color: #e0e0e0;
+    display: flex;
+    flex-direction: row;
+    padding: 8px;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .solidbrandstwitterIcon {
+    position: relative;
+    width: 32px;
+    height: 32px;
+  }
+  .socialslistItems {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 24px;
+  }
+  .logoSingleLineLockupWhiteParent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    padding: 0 80px;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .frameChild14 {
+    align-self: stretch;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    height: 2px;
+    flex-shrink: 0;
+  }
+  .phaseFCloseContainer {
+    position: relative;
+    line-height: 120%;
+  }
+  .addressParent,
+  .phaseFCloseRumuaholuPortWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .phaseFCloseRumuaholuPortWrapper {
+    justify-content: flex-start;
+    text-align: left;
+    font-size: 16px;
+    color: #474747;
+  }
+  .addressParent {
+    align-self: stretch;
+    justify-content: center;
+    gap: 24px;
+  }
+  .description10 {
+    position: relative;
+    font-size: 16px;
+    line-height: 100%;
+    color: #858585;
+  }
+  .details1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 8px;
+  }
+  .iconmsg {
+    position: relative;
+    width: 24px;
+    height: 24px;
+  }
+  .buttonsecondarysend,
+  .forminput,
+  .inputLabel {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .inputLabel {
+    gap: 6px;
+  }
+  .buttonsecondarysend,
+  .forminput {
+    border-radius: 12px;
+    background-color: #196719;
+    padding: 8px;
+  }
+  .forminput {
+    align-self: stretch;
+    border-radius: 16px;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(20, 20, 20, 0.08);
+    padding: 4px 4px 4px 8px;
+    justify-content: space-between;
+    text-align: center;
+    font-size: 16px;
+    color: #858585;
+    font-family: "IBM Plex Sans";
+  }
+  .form,
+  .frameParent16 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .form {
+    align-self: stretch;
+    border-radius: 24px;
+    background-color: #f5f5f5;
+    padding: 16px;
+    justify-content: center;
+    gap: 16px;
+    text-align: left;
+    font-size: 20px;
+  }
+  .frameParent16 {
+    width: 340px;
+    justify-content: flex-start;
+    gap: 24px;
+  }
+  .joinOurTeam {
+    position: relative;
+    font-size: 18px;
+    line-height: 100%;
+    font-weight: 500;
+    font-family: "IBM Plex Sans";
+  }
+  .aboutParent,
+  .overviewParent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .overviewParent {
+    justify-content: flex-start;
+    gap: 16px;
+    text-align: left;
+    font-size: 16px;
+    color: #474747;
+  }
+  .aboutParent {
+    justify-content: center;
+    gap: 24px;
+  }
+  .faqs {
+    position: relative;
+    line-height: 100%;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .frameParent15 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    padding: 0 80px;
+    align-items: flex-start;
+    justify-content: space-between;
+  }
+  .iconcopyright {
+    position: relative;
+    width: 16px;
+    height: 16px;
+  }
+  .copyright {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 4px;
+  }
+  .copyrightWrapper,
+  .frameParent14 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .copyrightWrapper {
+    align-self: stretch;
+    background-color: #141414;
+    padding: 24px 80px;
+    align-items: center;
+    text-align: left;
+    font-size: 14px;
+    color: #fff;
+    font-family: "IBM Plex Sans";
+  }
+  .frameParent14 {
+    position: absolute;
+    top: 3214px;
+    left: 0;
+    background-color: #fff;
+    width: 1440px;
+    padding: 40px 0 0;
+    box-sizing: border-box;
+    align-items: flex-start;
+    gap: 40px;
+    text-align: center;
+    font-size: 25px;
+  }
+  .bgElementIcon4 {
+    position: absolute;
+    margin: 0 !important;
+    top: 0;
+    right: 223.65px;
+    width: 1054.35px;
+    height: 1049.16px;
+    z-index: 0;
+  }
+  .downloadTheSportboo {
+    position: relative;
+    line-height: 100%;
+    display: inline-block;
+    width: 475px;
+    z-index: 1;
+  }
+  .button2,
+  .cta2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .button2 {
+    border-radius: 16px;
+    background-color: #fcce17;
+    box-shadow: 8px 8px 0#000;
+    border: 3px solid #fff;
+    padding: 16px 32px;
+    gap: 8px;
+  }
+  .cta2 {
+    gap: 24px;
+    z-index: 2;
+    font-size: 20px;
+    color: #141414;
+  }
+  .fieldRug7,
+  .fieldRug8 {
+    align-self: stretch;
+    position: relative;
+    background-color: #594700;
+    height: 39.77px;
+  }
+  .fieldRug8 {
+    background-color: #fff2be;
+  }
+  .footballPitch1 {
+    position: absolute;
+    width: 100%;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 26.51px;
+    background-color: #fff2be;
+    border: 3.3px solid #141414;
+    box-sizing: border-box;
+    height: 242.61px;
+    overflow: hidden;
+  }
+  .legalServiceAppLaunchScr11,
+  .legalServiceAppLaunchScr12 {
+    position: absolute;
+    border-radius: 14.35px;
+    background-color: #090a0a;
+    filter: blur(28.7px);
+    border: 0.4px solid #000;
+    box-sizing: border-box;
+  }
+  .legalServiceAppLaunchScr11 {
+    bottom: -29.17px;
+    left: 13.92px;
+    width: 333.42px;
+    height: 234.66px;
+    display: none;
+    opacity: 0.4;
+  }
+  .legalServiceAppLaunchScr12 {
+    top: 15.77px;
+    left: 28.35px;
+    width: 130.74px;
+    height: 296.28px;
+    opacity: 0.3;
+  }
+  .legalServiceAppLaunchScr13 {
+    position: absolute;
+    bottom: 3.59px;
+    left: -3.59px;
+    border-radius: 17.22px;
+    width: 145.39px;
+    height: 313.62px;
+    object-fit: cover;
+  }
+  .phone5 {
+    position: absolute;
+    top: 9.28px;
+    left: 29.17px;
+    width: 159.09px;
+    height: 313.62px;
+  }
+  .legalServiceAppLaunchScr14 {
+    position: absolute;
+    top: 39.11px;
+    left: 28.5px;
+    border-radius: 14.35px;
+    background-color: #090a0a;
+    filter: blur(28.7px);
+    border: 0.4px solid #000;
+    box-sizing: border-box;
+    width: 127.27px;
+    height: 273.1px;
+    opacity: 0.4;
+  }
+  .phone6 {
+    position: absolute;
+    top: 9.28px;
+    left: 192.9px;
+    width: 155.77px;
+    height: 313.62px;
+  }
+  .frameChild15 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: linear-gradient(186.26deg, rgba(255, 255, 255, 0), #141414);
+    width: 359.94px;
+    height: 35.79px;
+  }
+  .footballPitchParent {
+    position: absolute;
+    margin: 0 !important;
+    top: calc(50% - 120.69px);
+    right: 0;
+    border-radius: 26.51px;
+    width: 359.94px;
+    height: 291px;
+    overflow: hidden;
+    flex-shrink: 0;
+    z-index: 3;
+  }
+  .p2pBetting,
+  .p2pBettingWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .p2pBetting {
+    border-radius: 32px;
+    background: linear-gradient(265.06deg, #fcce17, #000);
+    box-shadow: 0 4px 16px rgba(20, 20, 20, 0.08);
+    width: 1278px;
+    overflow: hidden;
+    padding: 40px;
+    box-sizing: border-box;
+    position: relative;
+    gap: 40px;
+  }
+  .p2pBettingWrapper {
+    position: absolute;
+    top: 2748px;
+    right: 0;
+    background-color: #fff;
+    padding: 80px;
+    font-size: 61px;
+    color: #fff;
+  }
+  .div2 {
+    position: absolute;
+    top: calc(50% - 6px);
+    left: 30px;
+    line-height: 16px;
+    font-weight: 500;
+  }
+  .mobileSignalIcon {
+    position: absolute;
+    top: calc(50% - 1.5px);
+    right: 69px;
+    width: 18px;
+    height: 10px;
+  }
+  .batteryIcon,
+  .wifiIcon {
+    position: absolute;
+    top: calc(50% - 3px);
+    right: 48.73px;
+    width: 15.27px;
+    height: 10.97px;
+  }
+  .batteryIcon {
+    top: calc(50% - 4px);
+    right: 16.02px;
+    width: 26.98px;
+    height: 13px;
+  }
+  .nativeStatusBar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #619e41;
+    width: 375px;
+    height: 44px;
+    display: none;
+    color: #fff;
+  }
+  .logoSingleLineLockupWhite1 {
+    position: relative;
+    width: 144.64px;
+    height: 41.61px;
+    z-index: 0;
+  }
+  .homeWrapper,
+  .tokenWrapper {
+    padding: 12px 16px;
+    align-items: flex-start;
+  }
+  .homeWrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    color: #196719;
+  }
+  .tokenWrapper {
+    cursor: pointer;
+  }
+  .aboutUsWrapper,
+  .frameParent17,
+  .getTheAppWrapper,
+  .tokenWrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+  .aboutUsWrapper {
+    padding: 12px 16px;
+    align-items: flex-start;
+  }
+  .frameParent17,
+  .getTheAppWrapper {
+    align-items: center;
+    z-index: 1;
+  }
+  .getTheAppWrapper {
+    border-radius: 24px;
+    background-color: #196719;
+    padding: 12px 16px;
+    align-items: flex-start;
+    z-index: 2;
+    color: #fff;
+    font-family: "IBM Plex Sans";
+  }
+  .headerChild {
+    position: absolute;
+    margin: 0 !important;
+    bottom: 0;
+    left: calc(50% - 203px);
+    border-radius: 8px;
+    /* background-color: #196719; */
+    width: 78px;
+    height: 2px;
+    z-index: 3;
+  }
+  .header {
+    /* position: absolute; */
+    top: 0;
+
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(20, 20, 20, 0.08);
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    padding: 16px 80px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: space-between;
+    color: #474747;
+  }
+  .desktopHomepage {
+    /* position: relative; */
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center; */
+    background-color: #fafafa;
+    width: 100%;
+    /* height: 3737px; */
+    /* overflow: hidden; */
+    /* text-align: left; */
+    font-size: 16px;
+    color: #141414;
+    font-family: Inter;
+  }
+  
