@@ -1,3 +1,4 @@
+import Footer from "../components/Footer";
 import styles from "./TutorialDetails.module.css";
 
 const TutorialDetails = () => {
@@ -320,6 +321,7 @@ const TutorialDetails = () => {
         </div>
     </div>
     </div>
+    <Footer />
     </>)
     }
 
