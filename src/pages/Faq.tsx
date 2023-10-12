@@ -2,10 +2,6 @@ import Footer from "../components/Footer";
 import styles from "./Faq.module.css";
 
 const Faq = () => {
-   
-
-     
-
   return (
     <> 
     <div className={styles.headerbackground}>
