@@ -1,6 +1,5 @@
 import Footer from "../components/Footer";
 import styles from "./Faq.module.css";
-import { useState } from "react";
 
 const Faq = () => {
    

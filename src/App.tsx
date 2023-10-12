@@ -1,14 +1,12 @@
 
 import './App.css';
-import Footer from './components/Footer';
+// import Footer from './components/Footer';
 import Landing from './pages/Landing';
 import Navbar from './components/Navbar';
 import Tutorial from './pages/Tutorial';
 import {
   Routes,
-  Route,
-  useNavigationType,
-  useLocation,
+  Route
 } from "react-router-dom";
 import About from './pages/AboutUs';
 import Faq from './pages/Faq';
