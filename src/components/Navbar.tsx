@@ -37,6 +37,13 @@ const Navbar = () => {
     <div className={styles.getTheAppWrapper}>
       <div className={styles.registerNow}>Get the App</div>
     </div>
+ 
+
+    <button className={styles.tablet}>
+      <img src="/menu.svg" alt="" />
+    </button>
+
+
     <div className={styles.headerChild} />
   </div>
   );

@@ -3,6 +3,10 @@
     line-height: 100%;
     font-weight: 500;
   }
+
+  .tablet {
+     display: none; 
+  }
   .redeemRewardWrapper,
   .registerNowGetUpTo100UParent {
     display: flex;
@@ -1859,4 +1863,79 @@
     color: #141414;
     font-family: Inter;
   }
+
+  /* Tablet CSS */
+  /* @media screen and (min-width: 768px) and (max-width: 1024px) {
+    .frameParent17 {
+     display: none;
+    }
+
+    .header{
+      display: flex;
+padding: 8px 24px;
+justify-content: space-between;
+align-items: center;
+    }
+  } */
+  /* Tablet CSS */
+  @media screen  and (max-width: 1024px) {
+    .frameParent17 {
+     display: none;
+    }
+
+    .header{
+      display: flex;
+padding: 8px 24px;
+justify-content: space-between;
+align-items: center;
+    }
+
+    .logoSingleLineLockupWhite1 {
+      width: 89.12px;
+height: 28.444px;
+flex-shrink: 0;
+    }
+
+    .getTheAppWrapper{
+      display: none;
+    }
+
+    .tablet {
+      display: flex;
+padding: 8px;
+justify-content: center;
+align-items: center;
+gap: 8px;
+
+border-radius: 48px;
+background: var(--tertiary-2, #F5F5F5);
+    }
+    .tablet > img {
+      display: flex;
+      width: 24px;
+      height: 24px;
+      justify-content: center;
+      align-items: center;
+    }
+    
+    button {
+      border: none;
+    }
+  }
+
+ 
+
+  /* MOBILE CSS */
+  /* @media screen and (max-width: 767px) {
+    .header {
+      display: flex;
+padding: 8px 24px;
+justify-content: space-between;
+align-items: center;
+     }
+
+     .frameParent17 {
+      display: none;
+     }
+  } */
   

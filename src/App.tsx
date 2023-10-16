@@ -13,13 +13,14 @@ import Faq from './pages/Faq';
 import TutorialDetails from './pages/TutorialDetails';
 import Token from './pages/Token';
 import Support from './pages/Support';
+// import Footer from './components/Footer';
 
 function App() {
 
   return (
     <> 
      <Navbar />
-    <Routes>
+    {/* <Routes>
       <Route path="/" element={<Landing />} />
       <Route path="/about" element={<About />} />
       <Route path="/tutorial" element={<Tutorial />} />
@@ -27,7 +28,7 @@ function App() {
       <Route path="/tutorialdetails" element={<TutorialDetails />} />
       <Route path="/token" element={<Token />} />
       <Route path="/support" element={<Support />} />
-    </Routes>
+    </Routes> */}
     {/* <Footer /> */}
     </>
   )
